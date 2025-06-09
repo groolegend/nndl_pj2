@@ -125,4 +125,4 @@
 * batchnorm平滑loss landscape,这种平滑性带来了更具可预测性的梯度，从而允许使用更宽范围的学习率，并加快了网络收敛速度。
 
 code:
-
+[link](https://github.com/groolegend/nndl_pj2)
